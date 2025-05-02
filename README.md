@@ -8,6 +8,8 @@ The goal of the analysis was to evaluate whether adding specific phrases like "u
 - Security evaluations of the generated code.
 - Statistical insights into the impact of prompt phrasing.
 
+Disclaimer: The prompts, code, and evaluations were all done using OpenAI GPT-4o-mini model.
+
 ## Setup and run
 
 ### Install and Familiarize yourselves with the PromptFoo setup
