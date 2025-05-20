@@ -45,9 +45,9 @@ Disclaimer: The prompts, code, and evaluations were all done using OpenAI GPT-4o
 
 | Run | Standard Prompt set | Secure Prompt set | Total Prompts |
 | --- | ------------------- | ----------------- | ------------- |
-| 1   | 68.5% Passed        | 85% Passed        | 200 prompts   |
-| 2   | 71.5% Passed        | 87.50% Passed     | 400 prompts   |
-| 3   | 70.5% Passed        | 87.67% Passed     | 600 prompts   |
+| 1   | 68.5% Passed        | 85% Passed        | 400 prompts   |
+| 2   | 71.5% Passed        | 87.50% Passed     | 800 prompts   |
+| 3   | 70.5% Passed        | 87.67% Passed     | 1200 prompts   |
 
 #### Average Success Rate
 
