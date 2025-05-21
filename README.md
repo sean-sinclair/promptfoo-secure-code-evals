@@ -43,11 +43,11 @@ Disclaimer: The prompts, code, and evaluations were all done using OpenAI GPT-4o
 
 #### Success Rates by Run
 
-| Run | Standard Prompt set | Secure Prompt set | Total Prompts |
-| --- | ------------------- | ----------------- | ------------- |
-| 1   | 68.5% Passed        | 85% Passed        | 400 prompts   |
-| 2   | 71.5% Passed        | 87.50% Passed     | 800 prompts   |
-| 3   | 70.5% Passed        | 87.67% Passed     | 1200 prompts   |
+| Run | Standard Prompt set | Secure Prompt set | Total Prompts | Improvement |
+| --- | ------------------- | ----------------- | ------------- | ----------- |
+| 1   | 68.5% Passed        | 85% Passed        | 400 prompts   | 16.5%       |
+| 2   | 71.5% Passed        | 87.50% Passed     | 800 prompts   | 16%         |
+| 3   | 70.5% Passed        | 87.67% Passed     | 1200 prompts  | 17.17%      |
 
 #### Average Success Rate
 
