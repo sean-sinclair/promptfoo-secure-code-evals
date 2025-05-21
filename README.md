@@ -59,11 +59,12 @@ Disclaimer: The prompts, code, and evaluations were all done using OpenAI GPT-4o
 - Adding "using best practices" to prompts significantly improved the success rate of security evaluations by approximately 16.56%.
 - Results were consistent across multiple runs.
 - Quality checks of 20-25 samples confirmed agreement with LLM evaluations, but results should be interpreted cautiously since the LLM was both generating and evaluating the code.
-- This does NOT mean that adding "Using best practices" into your prompt automatically makes the code secure. In this limited investigation it seems to correlate with a higher probability that the LLM will avoid most pitfalls at a higher rate.
+- This does NOT mean that adding "Using best practices" into your prompt automatically makes the code secure. In this limited investigation it seems to correlate with a higher probability that the LLM will avoid common pitfalls.
 
 ### Recommendations
 
 - Include security-focused phrases in prompts to improve the quality of generated code.
+   - Preferably in the system prompt to avoid having to type it out every time. 
 - Always review LLM-generated code manually, even with secure prompts.
 
 ## Setup and run
