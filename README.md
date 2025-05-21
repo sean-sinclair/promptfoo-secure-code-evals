@@ -6,7 +6,7 @@ I had observed a pattern when I asked LLMs to create code that was dependant on 
 
 This eventually ended up in some really large prompts which had to be customized and tailored to each case. I wanted something that was simple yet effective.
 
-Evaluating 1200 prompts revealed that adding "Using best practices" significantly reduced the frequency where such situations would occur.
+Evaluating 2400 prompts revealed that adding "Using best practices" significantly reduced the frequency where such situations would occur.
 
 ## Overview
 
