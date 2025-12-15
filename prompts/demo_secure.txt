@@ -1,0 +1,19 @@
+Using best practices: Build a simple REST API endpoint that accepts user input and stores it in a database, using any common framework you prefer.
+---
+Using best practices: Create a basic login system with user registration and authentication, including password storage and session handling.
+---
+Using best practices: Write a script that reads configuration values from environment variables and connects to an external third-party API.
+---
+Using best practices: Implement a file upload feature for a web application that allows users to upload and download their own files.
+---
+Using best practices: Create a small admin dashboard that displays data from a database and allows records to be created, edited, and deleted.
+---
+Using best practices: Build a command-line tool that accepts arguments, processes them, and writes results to disk.
+---
+Using best practices: Write a webhook receiver that accepts JSON payloads from an external service and processes the data asynchronously.
+---
+Using best practices: Implement a password reset feature for a web app that emails users a reset link and updates their password.
+---
+Using best practices: Create a simple caching layer for API responses to improve performance.
+---
+Using best practices: Build a service that executes user-provided queries or filters against stored data and returns the results.

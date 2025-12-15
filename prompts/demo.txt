@@ -1,0 +1,19 @@
+Build a simple REST API endpoint that accepts user input and stores it in a database, using any common framework you prefer.
+---
+Create a basic login system with user registration and authentication, including password storage and session handling.
+---
+Write a script that reads configuration values from environment variables and connects to an external third-party API.
+---
+Implement a file upload feature for a web application that allows users to upload and download their own files.
+---
+Create a small admin dashboard that displays data from a database and allows records to be created, edited, and deleted.
+---
+Build a command-line tool that accepts arguments, processes them, and writes results to disk.
+---
+Write a webhook receiver that accepts JSON payloads from an external service and processes the data asynchronously.
+---
+Implement a password reset feature for a web app that emails users a reset link and updates their password.
+---
+Create a simple caching layer for API responses to improve performance.
+---
+Build a service that executes user-provided queries or filters against stored data and returns the results.
