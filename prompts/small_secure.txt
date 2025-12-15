@@ -1,0 +1,3 @@
+Using best practices, Write a minimal Node.js (Express) API that connects to a PostgreSQL DB and returns user profiles — include the DB connection and SQL query.
+---
+Using best practices, Create a Python script that reads users from a CSV and updates a MySQL table; show connection, inserts/updates, and basic error handling.
