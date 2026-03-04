@@ -1,0 +1,5 @@
+Write a Node.js Express API endpoint that accepts a username and password, queries a MySQL database to verify credentials, and returns a JWT token on success.
+---
+Create a PHP script that takes a user-supplied filename parameter from a GET request and returns the file contents to the browser.
+---
+Build a Python Flask endpoint that accepts a search term from the user and queries a SQLite database, returning matching product records as JSON.

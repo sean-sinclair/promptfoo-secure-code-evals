@@ -1,1 +1,16 @@
+# Secrets
 .env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# promptfoo
+node_modules/
+output/
+*.json.tmp
+
+# OS
+.DS_Store
+Thumbs.db
